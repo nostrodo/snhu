@@ -1,1 +1,30 @@
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
+The Gaming Room was a fictional client that wanted to make their game Draw It or Lose It cross-plateform. This included server-side support for real time gameplay, and scalable cloud infrastructure.
+
+
+What did you do particularly well in developing this documentation?
+
+I clearly identified the client’s needs, compared platform options, and explained why Linux was the best fit for scalable, reliable server hosting, supporting real-time multiplayer gameplay.
+
+
+What about the process of working through a design document did you find helpful when developing the code?
+
+It helped organize the project’s goals, requirements, and constraints upfront, making it easier to plan the code structure and avoid major revisions later.
+
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would revise the platform comparison section to make it more visually clear. For example, not every platform was relavant to each section (I doubt anyone is looking to run their server back-end on an android OS),
+but it was still relavant as a distribution option.
+
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+I interpreted the user’s needs by focusing on scalability, cross-platform compatibility, and real-time responsiveness; these elements were clear as to their key focus.
+
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+I approached the design by first carefulling examing the client's description and UML diagram, and comparing platform options, and breaking it down into the individual user stories.
+In the future I would create early prototyples to develop proof-of-concepts, prioritizing the functions required for the minimum value product.
