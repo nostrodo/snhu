@@ -1,0 +1,12 @@
+The DriverPass project was about designing a web based system for a driving school, in order to assist students with preparing for the liscense test.
+
+The part I believe I was best at was the graphs. the use-case diagram required a couple creative solutions to enhance readability as the list of uses and the number of actors increased. I also enjoyed spending the time time and organizing the class diagram.
+
+were I to choose one part of the work to revise, it would be the class diagram. I wasn't happy that there was a couple lines thats crisscrossed, which i believe hinder readability, and I think the packages class should've been closer to the appointment's class, 
+as they are closely related.
+
+The best way I found in interpreting the user's needs for the system was to simply write each use-case down one by one, then arrange, link, and group them together as related for the use case diagram. Working out the system visually also revealed areas of improvement
+  with the original buisiness requirements document, as I noticed there really wasn't specified a way for the drivers to interact with the system and incorporate their notes for the students, despite having that feature listed as a requirement.
+
+I think I'm still a little too new to have an established method yet. I do like planing things out, espesially visually, but ultimately experiance is the best teacher and so as long as a have a general idea of what the goal is, i try to simply hit the ground
+running.
