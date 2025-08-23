@@ -1,0 +1,19 @@
+What was the problem you were solving in the projects for this course?
+Produce a user-friendly program that displays a list of courses in order, and can show each course's prerequisite.
+
+How did you approach the problem? Consider why data structures are important to understand.
+Most of the approach was well laid out already in assignment details. I believe most of my own contribute was with ensureing
+memory management, and verifying course details and input.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+Available time was alway my greatest roadblock. I managed this by staying disiplined with the schedule I laid out at the
+start of class. The support of of the other members of my household went a long way as well.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+I was not familiar with most of this course's contents before begining. the various searching and sorting algorithms,
+analyzing each through big O notation, deciding which is optimal for the specific use case, then applying it to a final
+project was all new to me.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+This project helped with examing and planing the apporach to the software before jumping into it, just ensure the 
+solution is ideal.
