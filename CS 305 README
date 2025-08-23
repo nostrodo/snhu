@@ -1,0 +1,31 @@
+Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company 
+want you to address?
+Artemis Financial was a fictional financial institution who wished to streamline their operations in a secure manner.
+The security aspect was the focus to address.
+
+What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What 
+value does software security add to a company’s overall well-being?
+What I did well was ensuring I addressed every potential issue, large or small, as even the smaller issues could be 
+used to expose sensitive data. As this was representing a major financial institution, it would bee assumed that there would
+be plenty of people attempting to hack into systems in pursuite of the client's sensitive data.
+
+Which part of the vulnerability assessment was challenging or helpful to you?
+Making sure I didn't miss any serious vulnerabilities. before this I was familiar with some amount of best practices,
+but a good amount of the exact methods used by hackers was new to me, and I wanted to make sure I didn't miss one.
+
+How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which 
+mitigation techniques to use?
+The class's vulnerability assesment flow diagram was VERY helpful. It clearly displayed each element to check, and why.
+
+How did you make certain the code and software application were functional and secure? After refactoring the code, how did you 
+check to see whether you introduced new vulnerabilities?
+I have a habit of running the program every few lines of code to ensure functionality. When I'm more familiar with the
+libraries used I can go a little longer with confidence it'll work as intended, but not only is java my least comfortable
+language currently, this class also introduced me to some unique libraries and dependencies that I wasn't familiar with.
+
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and 
+experience. What might you show future employers from this assignment?
+I already mentioned the flow diagram, but it's worth a second mention as I found it very useful, and I'll definitly be
+keeping a copy of it for usage outside of this class. I'm sure Maven will be another tool it pays to be familiar with.
+The successfully generated .cer file, and the correctly implemented cipher would both be great portfolio submissions.
