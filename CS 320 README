@@ -1,0 +1,8 @@
+How can I ensure that my code, program, or software is functional and secure?
+By using thorough unit, boundary, and exception testing while following secure coding practices to validate that requirements and edge cases are handled correctly.
+
+How do I interpret user needs and incorporate them into a program?
+By translating clearly defined requirements into tests and features that directly confirm whether the program behaves as users expect.
+
+How do I approach designing software?
+By carefully planning requirements, designing modular components, and validating with disciplined testing to avoid bugs and technical debt.
