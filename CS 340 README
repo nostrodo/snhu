@@ -1,0 +1,16 @@
+1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, 
+which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+I write maintainable programs by separating responsibilities and organizing code into reusable modules. Creating a standalone CRUD Python module allowed me to keep database logic separate from 
+the dashboard, which made the code easier to read, test, and modify. In the future, I could reuse this same module for APIs, other dashboards, or different applications that connect to the same database.
+
+2. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ
+from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+I approach problems by breaking requirements into smaller components and solving them step by step. For this project, I focused on validating database functionality first, then integrating it into the dashboard.
+Unlike earlier assignments that focused on isolated problems, this project required thinking more about client needs and overall system design.
+
+3. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+Computer scientists design systems that organize and make data useful. In this project, the database and dashboard helped simulate how a company like Grazioso Salvare
+could quickly filter and analyze records instead of reviewing data manually. This kind of work improves efficiency, accuracy, and decision-making.
