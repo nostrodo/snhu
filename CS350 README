@@ -1,0 +1,29 @@
+1. Summarize the project and what problem it was solving.
+
+This project implemented a Raspberry Pi–based thermostat using a temperature sensor, buttons, PWM LEDs, and an LCD display. 
+It solved the problem of automatically managing heating and cooling states based on a target temperature using a simple state machine.
+
+2. What did you do particularly well?
+
+I structured the program clearly around defined states and ensured that hardware components interacted predictably. The integration of sensor 
+input, button controls, and visual feedback worked reliably together.
+
+3. Where could you improve?
+
+I could improve by adding more robust error handling and better abstraction between hardware control and logic. Additional testing and code 
+comments would also strengthen long-term maintainability.
+
+4. What tools and/or resources are you adding to your support network?
+
+I am becoming more comfortable using Raspberry Pi documentation, hardware datasheets, and debugging tools like serial output for troubleshooting.
+These resources will continue to support future embedded projects.
+
+5. What skills from this project will be particularly transferable to other projects and/or course work?
+
+State machine design, hardware-software integration, and debugging physical components are highly transferable to other embedded systems and IoT projects.
+The experience also strengthened my understanding of event-driven programming.
+
+6. How did you make this project maintainable, readable, and adaptable?
+
+I organized the logic around clear states and separated configuration values, such as target temperature, from control flow. This makes the system easier to 
+modify, expand, or adapt for future features.
